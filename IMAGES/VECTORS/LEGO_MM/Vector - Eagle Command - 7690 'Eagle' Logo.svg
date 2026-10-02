@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:realworld="http://www.rw-designer.com/export-svg" width="1500px" height="1500px">
+  <g inkscape:groupmode="layer" inkscape:label="unnamed">
+    <path d="M 1257 513L 1429 511L 1263 591L 1464 604L 1247 669L 1369 750L 1134 750L 1230 863L 1019 804L 1019 906L 919 840L 903 933L 816 843L 710 927L 723 813L 569 860L 650 759L 193 737L 63 829C 63 829 77.2857 598.286 113 554L 703 533L 721 496L 1324 469C 1324 469 1257 513 1257 513 z" fill="#000000" fill-rule="evenodd" />
+    <path id="Head" d="M 1161 539L 1316 536L 1156 607L 1311 620L 1169 659L 1260 724L 1064 724L 1130 801L 987 763L 987 841L 896 789L 883 867L 819 801L 744 864L 753 776L 640 811L 701 737L 181 711L 91 776C 91 776 111.429 608.143 130 581L 729 556L 743 526L 1217 504C 1217 504 1161 539 1161 539 z" fill="#ffffff" fill-rule="evenodd" />
+    <path d="M 156 607L 724 581L 754 620L 383 691L 181 686L 130 724C 130 724 130.026 645.961 156 607 z" fill="#000000" fill-rule="evenodd" />
+    <path d="M 429 697L 766 633L 779 646L 727 711C 727 711 429 697 429 697 z" fill="#000000" fill-rule="evenodd" />
+    <polygon id="Eye" fill="#000000" fill-rule="evenodd" points="811,606 909,543 949,569" />
+  </g>
+</svg>

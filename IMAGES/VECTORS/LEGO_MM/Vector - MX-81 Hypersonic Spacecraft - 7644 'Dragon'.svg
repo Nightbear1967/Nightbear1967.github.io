@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:realworld="http://www.rw-designer.com/export-svg" width="1500px" height="1500px">
+  <g inkscape:groupmode="layer" inkscape:label="unnamed">
+    <polygon id="Body" fill="#000000" fill-rule="evenodd" points="963,423 1043,682 1094,625 1038,518 1140,604 1106,537 1207,601 1174,503 1337,650 1337,552 1419,747 1414,792 1457,974 1436,990 1414,982 1410,950 1387,943 1402,908 1371,910 1373,874 1347,849 1328,819 1323,817 1340,854 1362,879 1359,922 1388,918 1372,952 1393,959 1400,968 1400,977 1354,960 1354,943 1267,840 1297,806 1294,802 1256,800 1272,763 1269,758 1207,764 1273,903 1239,895 1321,1041 1289,1041 1289,1221 1239,1204 1130,1256 1126,1188 991,1144 1011,1073 880,895 880,699 708,685 670,751 687,670 587,536 393,536 350,583 378,522 181,372 17,309 570,228 880,274 930,274 963,210" />
+    <polygon fill="#ffffff" fill-rule="evenodd" points="874,331 880,340 880,650 734,634 616,514" />
+    <polygon fill="#ffffff" fill-rule="evenodd" points="852,323 857,325 570,503 433,503" />
+    <polygon fill="#ffffff" fill-rule="evenodd" points="569,265 843,307 380,480 155,326" />
+    <polygon id="Eye" fill="#ffffff" fill-rule="evenodd" points="1368,745 1379,747 1401,783 1394,806 1389,809 1379,770" />
+  </g>
+</svg>

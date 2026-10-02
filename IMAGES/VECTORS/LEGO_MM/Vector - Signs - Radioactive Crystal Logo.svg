@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:realworld="http://www.rw-designer.com/export-svg" width="1500px" height="1500px">
+  <g inkscape:groupmode="layer" inkscape:label="unnamed">
+    <polygon id="Outline" fill="#000000" fill-rule="evenodd" points="413,162 1087,162 1425,750 1087,1338 413,1338 75,750" />
+    <path d="M 1378.86 750L 1063.86 1298L 436.145 1298L 121.137 750L 436.145 202L 1063.86 202C 1063.86 202 1378.86 750 1378.86 750 z" fill="#fe8b11" fill-rule="evenodd" />
+    <polygon id="Outer3" fill="#000000" fill-rule="evenodd" points="678,895 822,895 1007,1215 493,1215" />
+    <polygon id="Outer2" fill="#000000" fill-rule="evenodd" points="912,740 840,615 1024,295 1281,740" />
+    <polygon id="Outer1" fill="#000000" fill-rule="evenodd" points="660,615 588,740 219,740 476,295" />
+    <polygon id="Inner6" fill="#000000" fill-rule="evenodd" points="726,729 720,740 632,740 682,653" />
+    <polygon id="Inner5" fill="#000000" fill-rule="evenodd" points="720,760 726,771 682,847 632,760" />
+    <polygon id="Inner4" fill="#000000" fill-rule="evenodd" points="744,781 756,781 800,857 700,857" />
+    <polygon id="Inner3" fill="#000000" fill-rule="evenodd" points="774,771 780,760 868,760 818,847" />
+    <polygon id="Inner2" fill="#000000" fill-rule="evenodd" points="780,740 774,729 818,653 868,740" />
+    <polygon id="Inner1" fill="#000000" fill-rule="evenodd" points="756,719 744,719 700,643 800,643" />
+  </g>
+</svg>

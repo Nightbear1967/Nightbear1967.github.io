@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:realworld="http://www.rw-designer.com/export-svg" width="1000px" height="1000px">
+  <g>
+    <ellipse cx="500" cy="500" fill="#000000" rx="500" ry="500" />
+    <ellipse cx="500" cy="500" fill="#fff000" rx="460" ry="460" transform="40" />
+    <path d="M 700.048 153.524C 758.95 187.46 809.976 236.894 846.41 299.999C 882.845 363.105 900.143 432.013 900.081 499.992L 599.974 499.992C 599.989 482.999 595.711 465.775 586.603 450C 577.496 434.225 564.718 421.908 549.994 413.424C 549.994 413.424 700.048 153.524 700.048 153.524 z" fill="#000000" fill-rule="evenodd" />
+    <ellipse cx="500" cy="500" fill="#000000" rx="80" ry="80" transform="420" />
+    <path d="M 700.033 846.485C 641.193 880.528 572.869 900 500.001 900C 427.132 900 358.807 880.528 299.966 846.484L 450.02 586.584C 464.729 595.093 481.785 600 500 600C 518.215 600 535.271 595.093 549.98 586.584C 549.98 586.584 700.033 846.485 700.033 846.485 z" fill="#000000" fill-rule="evenodd" />
+    <path d="M 99.9187 499.991C 99.8567 432.012 117.155 363.106 153.589 300.001C 190.023 236.895 241.05 187.46 299.953 153.524L 450.006 413.424C 435.282 421.908 422.505 434.225 413.397 450C 404.289 465.775 400.011 482.999 400.026 499.992C 400.026 499.992 99.9187 499.991 99.9187 499.991 z" fill="#000000" fill-rule="evenodd" />
+  </g>
+</svg>

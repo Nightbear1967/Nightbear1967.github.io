@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:realworld="http://www.rw-designer.com/export-svg" width="1500px" height="1500px">
+  <g inkscape:groupmode="layer" inkscape:label="unnamed">
+    <polygon fill="#000000" fill-rule="evenodd" points="413,162 1087,162 1425,750 1087,1338 413,1338 75,750" />
+    <path d="M 1378.86 750L 1063.86 1298L 436.145 1298L 121.137 750L 436.145 202L 1063.86 202C 1063.86 202 1378.86 750 1378.86 750 z" fill="#fe8b11" fill-rule="evenodd" />
+    <path d="M 705 1140L 795 1140L 795 1185L 915 1185L 915 1140L 990 1140L 750 315L 510 1140L 585 1140L 585 1185L 705 1185C 705 1185 705 1140 705 1140 z" fill="#ffffff" fill-rule="evenodd" />
+    <path d="M 795 630L 750 465L 705 630C 705 630 795 630 795 630 z" fill="#000000" fill-rule="evenodd" />
+  </g>
+</svg>

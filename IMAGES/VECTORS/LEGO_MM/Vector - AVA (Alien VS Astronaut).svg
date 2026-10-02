@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:realworld="http://www.rw-designer.com/export-svg" width="1744px" height="500px">
+  <g inkscape:groupmode="layer" inkscape:label="unnamed">
+    <ellipse cx="338" cy="339" fill="#000000" realworld:stroke-pos="-1" rx="58" ry="58" stroke="#fe8b11" stroke-linejoin="round" stroke-width="15" />
+    <path id="unnamed" d="M 408 71L 604 343C 616 361 640.669 399.932 602 427C 562 455 540 419 526 401L 370 179C 354 157 349.333 149 336 149C 322.667 149 318 157 302 179L 146 401C 132 419 110 455 70 427C 31.3308 399.932 56 361 68 345L 262 71C 288 49 310 49 336 49C 362 49 382 49 408 71 z" fill="#000000" fill-rule="evenodd" realworld:stroke-pos="-1" stroke="#fe8b11" stroke-linejoin="round" stroke-width="15" />
+    <ellipse cx="1406" cy="339" fill="#000000" realworld:stroke-pos="-1" rx="58" ry="58" stroke="#fe8b11" stroke-linejoin="round" stroke-width="15" transform="281" />
+    <path d="M 1336 71L 1140 343C 1128 361 1103.33 399.932 1142 427C 1182 455 1204 419 1218 401L 1374 179C 1390 157 1394.67 149 1408 149C 1421.33 149 1426 157 1442 179L 1598 401C 1612 419 1634 455 1674 427C 1712.67 399.932 1688 361 1676 345L 1482 71C 1456 49 1434 49 1408 49C 1382 49 1362 49 1336 71 z" fill="#000000" fill-rule="evenodd" realworld:stroke-pos="-1" stroke="#fe8b11" stroke-linejoin="round" stroke-width="15" />
+    <path d="M 944 429L 1140 157C 1152 139 1176.67 100.068 1138 73C 1098 45 1076 81 1062 99L 906 321C 890 343 885.333 351 872 351C 858.667 351 854 343 838 321L 682 99C 668 81 646 45 606 73C 567.331 100.068 592 139 604 155L 798 429C 824 451 846 451 872 451C 898 451 918 451 944 429 z" fill="#000000" fill-rule="evenodd" realworld:stroke-pos="-1" stroke="#fe8b11" stroke-linejoin="round" stroke-width="15" />
+  </g>
+</svg>

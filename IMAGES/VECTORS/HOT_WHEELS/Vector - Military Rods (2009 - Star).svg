@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:realworld="http://www.rw-designer.com/export-svg" width="800px" height="800px">
+  <g inkscape:groupmode="layer" inkscape:label="layer 1">
+    <path d="M 490 314L 780 314L 545 485L 635 762L 400 591L 165 762L 227 572L 226 572L 255 485L 90 365L 20 314L 310 314L 400 38C 400 38 490 314 490 314 z M 400 135L 468 344L 688 344L 510 474L 578 683L 400 554L 222 683L 257 574C 265.671 574.28 274.611 574.673 283 574C 356.433 568.107 389.008 549.295 415 522C 447.914 487.437 475.126 475.452 503 483C 470.461 455.523 423.359 503.081 375 515C 322.651 527.902 279.229 471.565 341 462C 364.053 458.43 377.362 493.79 409 482C 482.045 454.779 466.302 379.108 608 382C 489.548 353.168 461.377 401.973 396 414C 377.482 417.407 360.524 408.075 370 403C 394.566 389.842 428.996 383.008 453 345C 332.908 403.042 273.362 386.089 150 371L 112 344L 332 344C 332 344 400 135 400 135 z" fill="#ffffff" fill-rule="evenodd" />
+  </g>
+</svg>

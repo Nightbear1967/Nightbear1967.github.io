@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:realworld="http://www.rw-designer.com/export-svg" width="600px" height="1000px">
+  <g inkscape:groupmode="layer" inkscape:label="Black">
+    <path d="M 0 500L 300 0L 600 500L 300 1000C 300 1000 0 500 0 500 z" fill="#000000" fill-rule="evenodd" />
+  </g>
+  <g inkscape:groupmode="layer" inkscape:label="Red">
+    <path d="M 42 500L 160 304L 278 500L 160 696C 160 696 42 500 42 500 z" fill="#000000" fill-rule="evenodd" />
+    <path d="M 558 500L 440 304L 322 500L 440 696C 440 696 558 500 558 500 z" fill="#ff0000" fill-rule="evenodd" />
+    <path d="M 418 734L 300 538L 182 734L 300 930C 300 930 418 734 418 734 z" fill="#ff0000" fill-rule="evenodd" />
+    <path d="M 418 266L 300 462L 182 266L 300 70C 300 70 418 266 418 266 z" fill="#ff0000" fill-rule="evenodd" />
+  </g>
+</svg>

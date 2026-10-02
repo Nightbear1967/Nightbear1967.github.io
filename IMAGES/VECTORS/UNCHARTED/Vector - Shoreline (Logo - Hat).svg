@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:realworld="http://www.rw-designer.com/export-svg" width="1191px" height="1258px">
+  <g inkscape:groupmode="layer" inkscape:label="Black">
+    <polygon id="Background" fill="#000000" fill-rule="evenodd" points="0.5,0.371979 1191.5,0.371979 1108.5,107.686 595.5,1257.69 83.5,107.686" />
+  </g>
+  <g inkscape:groupmode="layer" inkscape:label="Red">
+    <polygon id="Arrow" fill="#cf0000" fill-rule="evenodd" points="1126.48,36.686 595.5,374.367 65.5168,36.686" />
+    <polygon fill="#cf0000" fill-rule="evenodd" points="0.5,0 45,0 83.5,107.686" visibility="hidden" />
+    <polygon fill="#cf0000" fill-rule="evenodd" points="1190.5,0 1146,0 1107.5,107.686" visibility="hidden" />
+  </g>
+  <g inkscape:groupmode="layer" inkscape:label="White">
+    <path d="M 577.233 1122.41L 141 144L 577.233 422C 577.233 422 577.233 1122.41 577.233 1122.41 z" fill="#ffffff" fill-rule="evenodd" />
+    <polygon fill="#ffffff" fill-rule="evenodd" points="0.5,0 45,0 83.5,107.686" visibility="hidden" />
+    <polygon fill="#ffffff" fill-rule="evenodd" points="1190.5,0 1146,0 1107.5,107.686" visibility="hidden" />
+  </g>
+</svg>

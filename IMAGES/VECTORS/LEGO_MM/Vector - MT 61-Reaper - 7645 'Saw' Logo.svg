@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:realworld="http://www.rw-designer.com/export-svg" width="1500px" height="1500px">
+  <g inkscape:groupmode="layer" inkscape:label="unnamed">
+    <path d="M 1008 1128C 990 1074 942 1002 912 978C 898.748 967.399 884.687 954.35 846 942C 807.313 929.65 744 918 720 900C 594.832 806.123 576 732 576 732L 648 748L 648 750C 648 806.333 693.667 852 750 852C 791.044 852 826.818 827.947 843 793L 918 810C 960 828 972 840 1032 906L 1080 858L 1068 696L 1152 834L 1152 960L 1218 966L 1344 846L 1278 1008L 1182 1080L 1230 1122L 1326 1104L 1464 1020L 1368 1170L 1212 1218C 1212 1218 1008 1128 1008 1128 z" fill="#000000" fill-rule="evenodd" />
+    <path d="M 492 372C 510 426 558 498 588 522C 601.252 532.601 615.313 545.65 654 558C 692.687 570.35 756 582 780 600C 905.168 693.877 924 768 924 768L 852 752L 852 750C 852 693.667 806.333 648 750 648C 708.956 648 673.182 672.053 657 707L 582 690C 540 672 528 660 468 594L 420 642L 432 804L 348 666L 348 540L 282 534L 156 654L 222 492L 318 420L 270 378L 174 396L 36 480L 132 330L 288 282C 288 282 492 372 492 372 z" fill="#000000" fill-rule="evenodd" />
+    <ellipse cx="750" cy="750" fill="#000000" rx="66" ry="66" />
+  </g>
+</svg>

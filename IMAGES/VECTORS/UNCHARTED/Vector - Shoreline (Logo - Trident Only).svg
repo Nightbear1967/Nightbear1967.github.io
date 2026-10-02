@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:realworld="http://www.rw-designer.com/export-svg" width="1078px" height="1152px">
+  <g inkscape:groupmode="layer" inkscape:label="Background">
+    <polygon id="Background" fill="#000000" fill-rule="evenodd" points="0,34 0,0 1078,0 1078,34 1032,862.88 539,1152 46,862.88" />
+  </g>
+  <g inkscape:groupmode="layer" inkscape:label="Silver">
+    <path id="Silver" d="M 1017 853L 539 1133.5L 61 853L 16 18L 1062 18C 1062 18 1017 853 1017 853 z M 1046 34L 1001 844L 539 1115L 77 844L 32 34C 32 34 1046 34 1046 34 z" fill="#bcbcbc" fill-rule="evenodd" />
+    <path d="M 0 25L 0 0L 50 0C 50 0 0 25 0 25 z M 1078 25L 1028 0L 1078 0C 1078 0 1078 25 1078 25 z" fill="#0000ff" fill-rule="evenodd" visibility="hidden" />
+  </g>
+  <g inkscape:groupmode="layer" inkscape:label="Red">
+    <path id="Arrow-1" d="M 1029.65 328.38L 1001 844L 579 1091.54L 579 934L 659 849L 746 849L 926 284L 750 500L 818 495L 691 779L 598 779L 569 324.125L 668 414L 539 74L 410 414L 509 324.125L 480 779L 387 779L 260 495L 328 500L 152 284L 332 849L 419 849L 499 934L 499 1091.54L 77 844L 48.3545 328.383L 501.664 34L 576.336 34C 576.336 34 1029.65 328.38 1029.65 328.38 z M 1033.74 254.758L 1031.69 291.556L 635.09 34L 693.795 34C 693.795 34 1033.74 254.758 1033.74 254.758 z M 46.3086 291.556L 44.2646 254.761L 384.205 34L 442.91 34C 442.91 34 46.3086 291.556 46.3086 291.556 z" fill="#cf0000" fill-rule="evenodd" />
+    <path d="M 0 25L 0 0L 50 0C 50 0 0 25 0 25 z M 1078 25L 1028 0L 1078 0C 1078 0 1078 25 1078 25 z" fill="#0000ff" fill-rule="evenodd" visibility="hidden" />
+  </g>
+</svg>

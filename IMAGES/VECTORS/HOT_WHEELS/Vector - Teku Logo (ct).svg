@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:realworld="http://www.rw-designer.com/export-svg" width="1000px" height="197px">
+  <g inkscape:groupmode="layer" inkscape:label="layer 0">
+    <path d="M 782.434 13.1333L 771.382 32.8333L 822.369 32.8333L 792.895 85.3667L 741.908 85.3667L 679.276 197L 526.316 197L 579.226 102.689C 585.06 92.2904 565.693 85.3667 565.693 85.3667L 477.102 85.3667L 414.474 197L 0 197L 29.4768 144.467L 289.474 144.467C 289.474 144.467 293.44 143.915 298.374 139.811C 303.308 135.707 309.211 128.05 309.211 128.05L 322.368 111.633C 322.368 111.633 338.199 92.9823 313.747 85.3667L 62.5 85.3667L 92.1053 32.8333L 618.421 32.8333L 629.472 13.1333C 629.472 13.1333 782.434 13.1333 782.434 13.1333 z" fill="#ffffff" fill-rule="evenodd" />
+    <polygon fill="#ffffff" fill-rule="evenodd" points="852.105,85.3667 812.632,85.3667 842.105,32.8333 881.579,32.8333" />
+    <polygon fill="#ffffff" fill-rule="evenodd" points="911.316,85.3667 871.842,85.3667 901.316,32.8333 940.79,32.8333" />
+    <polygon fill="#ffffff" fill-rule="evenodd" points="970.526,85.3667 931.053,85.3667 960.526,32.8333 1000,32.8333" />
+  </g>
+</svg>

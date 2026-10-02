@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:realworld="http://www.rw-designer.com/export-svg" width="1900px" height="1000px">
+  <defs>
+    <linearGradient id="G0" gradientUnits="userSpaceOnUse" x1="1719.33" x2="1299.33" y1="77.667" y2="605.667">
+      <stop offset="0%" stop-color="#aaaaae" />
+      <stop offset="12.5002%" stop-color="#f3f3ff" />
+      <stop offset="24.947%" stop-color="#e7e7ed" />
+      <stop offset="45.0004%" stop-color="#aaaaae" />
+      <stop offset="54.9996%" stop-color="#e29d8f" />
+      <stop offset="62.4994%" stop-color="#ff6820" />
+      <stop offset="74.9996%" stop-color="#ffa500" />
+      <stop offset="87.4998%" stop-color="#ffff00" />
+      <stop offset="100%" stop-color="#ffffaf" />
+    </linearGradient>
+    <linearGradient id="G1" gradientUnits="userSpaceOnUse" x1="810" x2="1188.67" y1="50" y2="665.67">
+      <stop offset="0%" stop-color="#aaaaae" />
+      <stop offset="12.5002%" stop-color="#f3f3ff" />
+      <stop offset="24.947%" stop-color="#e7e7ed" />
+      <stop offset="45.0004%" stop-color="#aaaaae" />
+      <stop offset="54.9996%" stop-color="#e29d8f" />
+      <stop offset="62.4994%" stop-color="#ff6820" />
+      <stop offset="74.9996%" stop-color="#ffa500" />
+      <stop offset="87.4998%" stop-color="#ffff00" />
+      <stop offset="100%" stop-color="#ffffaf" />
+    </linearGradient>
+    <linearGradient id="G2" gradientUnits="userSpaceOnUse" x1="1090" x2="711.33" y1="50" y2="665.67">
+      <stop offset="0%" stop-color="#aaaaae" />
+      <stop offset="12.5002%" stop-color="#f3f3ff" />
+      <stop offset="24.947%" stop-color="#e7e7ed" />
+      <stop offset="45.0004%" stop-color="#aaaaae" />
+      <stop offset="54.9996%" stop-color="#e29d8f" />
+      <stop offset="62.4994%" stop-color="#ff6820" />
+      <stop offset="74.9996%" stop-color="#ffa500" />
+      <stop offset="87.4998%" stop-color="#ffff00" />
+      <stop offset="100%" stop-color="#ffffaf" />
+    </linearGradient>
+    <linearGradient id="G3" gradientUnits="userSpaceOnUse" x1="178" x2="600" y1="77.667" y2="607">
+      <stop offset="0%" stop-color="#aaaaae" />
+      <stop offset="12.5002%" stop-color="#f3f3ff" />
+      <stop offset="24.947%" stop-color="#e7e7ed" />
+      <stop offset="45.0004%" stop-color="#aaaaae" />
+      <stop offset="54.9996%" stop-color="#e29d8f" />
+      <stop offset="62.4994%" stop-color="#ff6820" />
+      <stop offset="74.9996%" stop-color="#ffa500" />
+      <stop offset="87.4998%" stop-color="#ffff00" />
+      <stop offset="100%" stop-color="#ffffaf" />
+    </linearGradient>
+  </defs>
+  <g inkscape:groupmode="layer" inkscape:label="layer 0">
+    <path id="Outline" d="M 42 33.667L 561.838 33.667L 595 59L 628 33.667L 916 33.667L 950 59L 984 33.667L 1475 33.667L 1482 57L 1490 33.667L 1851 33.667L 1700 147L 1700 961L 1284 649L 1078 803L 950 708L 822 803L 616 649L 200 961L 200 147C 200 147 42 33.667 42 33.667 z" fill="#000000" fill-rule="evenodd" />
+    <path id="M1" d="M 1719.33 77.667L 1655.33 125.667L 1655.33 872.333L 1526 776.333L 1526 508.333L 1482 657.667L 1439.33 508.333L 1439.33 711L 1299.33 605.667L 1310 599L 1310 77.667L 1443.33 77.667L 1482 217.667L 1523.01 77.667C 1523.01 77.667 1719.33 77.667 1719.33 77.667 z" fill="url(#G0)" fill-rule="evenodd" />
+    <path id="O2" d="M 1299.33 109.667L 1299.33 583L 1078 748.333L 955.333 657.667L 955.333 109.667L 998 77.667L 1256.67 77.667C 1256.67 77.667 1299.33 109.667 1299.33 109.667 z M 1160.67 216.333L 1171.33 225.667L 1171.33 507L 1084.67 572.333L 1084.67 225.667L 1096.67 216.333C 1096.67 216.333 1160.67 216.333 1160.67 216.333 z" fill="url(#G1)" fill-rule="evenodd" />
+    <path id="O1" d="M 944.667 109.667L 944.667 657.667L 822 748.333L 600.667 583L 600.667 109.667L 643.333 77.667L 902 77.667C 902 77.667 944.667 109.667 944.667 109.667 z M 803.333 216.333L 815.333 225.667L 815.333 572.333L 728.667 507L 728.667 225.667L 739.333 216.333C 739.333 216.333 803.333 216.333 803.333 216.333 z" fill="url(#G2)" fill-rule="evenodd" />
+    <path id="D1" d="M 588.667 109.667L 588.667 599L 600 607L 244.667 872.333L 244.667 125.667L 178 77.667L 547.247 77.667C 547.247 77.667 588.667 109.667 588.667 109.667 z M 448.667 216.333L 460.667 225.667L 460.667 507.563L 372.667 572.333L 372.667 216.333C 372.667 216.333 448.667 216.333 448.667 216.333 z" fill="url(#G3)" fill-rule="evenodd" />
+  </g>
+</svg>

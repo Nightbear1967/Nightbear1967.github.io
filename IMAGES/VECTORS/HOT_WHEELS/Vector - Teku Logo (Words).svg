@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:realworld="http://www.rw-designer.com/export-svg" width="700px" height="175px">
+  <g inkscape:groupmode="layer" inkscape:label="layer 0">
+    <path d="M 139 64.25L 145 50.5L 310 50.5L 293.375 73.5L 231.5 73.5L 235 64.25C 235 64.25 139 64.25 139 64.25 z" fill="#009cda" fill-rule="evenodd" />
+    <polygon fill="#009cda" fill-rule="evenodd" points="192.06,81 257.5,81 247.5,93 184.5,93 163.75,125.5 258.5,125.5 250,138 151.5,138 114.975,127.024 138.25,66.75 201.125,66.75" />
+    <polygon fill="#009cda" fill-rule="evenodd" points="357.458,87.898 430,50.5 492.5,50.5 400,98 351.37,98 348.356,103 397.5,103 497.5,150.5 427.5,150.5 343.662,110.787 325,141.75 283,129.25 317.5,50.5 380,50.5" />
+    <path d="M 497.5 50.5L 562.5 50.5L 515 126.25L 550 126.25L 597.5 50.5L 662.5 50.5L 602.5 138L 497.5 138L 464 128C 464 128 497.5 50.5 497.5 50.5 z" fill="#009cda" fill-rule="evenodd" />
+    <polygon fill="#009cda" fill-rule="evenodd" points="670.5,40.5 130,40.5 65,145.5 27.5,130.5 67.5,40.5 18.75,40.5 30,25.5 680.786,25.5" />
+  </g>
+</svg>

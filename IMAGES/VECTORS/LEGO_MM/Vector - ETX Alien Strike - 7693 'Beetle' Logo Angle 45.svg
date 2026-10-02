@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:realworld="http://www.rw-designer.com/export-svg" width="1500px" height="1500px">
+  <g inkscape:groupmode="layer" inkscape:label="unnamed">
+    <path d="M 668.787 668.787L 1015.27 511.809L 1230.94 939.609L 1206.9 1206.9L 939.609 1230.94L 511.809 1015.27C 511.809 1015.27 668.787 668.787 668.787 668.787 z" fill="#000000" fill-rule="evenodd" />
+    <path id="BackL" d="M 556.357 999.01L 687.26 712.716L 929.717 955.171L 909.908 1177.2C 909.908 1177.2 556.357 999.01 556.357 999.01 z" fill="#ffffff" fill-rule="evenodd" />
+    <path id="BackR" d="M 999.008 556.359L 712.716 687.26L 955.171 929.717L 1177.2 909.908C 1177.2 909.908 999.008 556.359 999.008 556.359 z" fill="#ffffff" fill-rule="evenodd" />
+    <polygon fill="#000000" fill-rule="evenodd" points="897.182,1281.85 755.761,1211.14 739.497,1470.65" />
+    <polygon fill="#000000" fill-rule="evenodd" points="586.055,1120.63 444.634,1049.92 405.743,1309.43" />
+    <polygon fill="#000000" fill-rule="evenodd" points="397.965,924.052 342.811,751.518 233.209,1057.7" />
+    <polygon fill="#000000" fill-rule="evenodd" points="1281.85,897.182 1211.14,755.761 1470.65,739.497" />
+    <polygon fill="#000000" fill-rule="evenodd" points="1120.63,586.055 1049.92,444.634 1309.43,405.743" />
+    <polygon fill="#000000" fill-rule="evenodd" points="924.052,397.965 751.518,342.811 1057.7,233.209" />
+    <path d="M 476.454 995.47L 641.21 641.21L 995.47 476.454L 484.232 311.698L 472.918 472.918L 311.698 484.232C 311.698 484.232 476.454 995.47 476.454 995.47 z" fill="#000000" fill-rule="evenodd" />
+    <polygon id="Head" fill="#ffffff" fill-rule="evenodd" points="515.345,358.367 504.738,504.738 358.367,515.345 482.111,900.718 615.754,615.754 900.718,482.111" />
+    <polygon id="HornL" fill="#000000" fill-rule="evenodd" points="299.677,535.851 181.59,543.629 48.6541,291.899 122.9,688.586 323.719,622.118" />
+    <polygon id="HornR" fill="#000000" fill-rule="evenodd" points="535.851,299.677 543.629,181.59 291.899,48.6542 688.586,122.9 622.118,323.719" />
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:realworld="http://www.rw-designer.com/export-svg" width="1500px" height="1500px">
+  <g>
+    <ellipse cx="750" cy="750" fill="#bcea00" rx="735" ry="735" />
+    <path d="M 432.5 200.074C 736.216 24.724 1124.58 128.784 1299.93 432.5C 1475.28 736.216 1371.22 1124.58 1067.5 1299.93C 763.784 1475.28 375.424 1371.22 200.074 1067.5C 24.724 763.784 128.784 375.424 432.5 200.074 z M 250.303 1038.5C 90.969 762.525 185.525 409.637 461.5 250.303C 737.475 90.969 1090.37 185.525 1249.7 461.5C 1409.03 737.474 1314.47 1090.37 1038.5 1249.7C 762.525 1409.03 409.637 1314.47 250.303 1038.5 z" fill="#000000" fill-opacity="0" fill-rule="evenodd" />
+    <polygon id="HazardT" fill="#000000" fill-opacity="0" fill-rule="evenodd" points="834,584 665,584 510,321 987,321" />
+    <polygon id="HazardR" fill="#000000" fill-opacity="0" fill-rule="evenodd" points="851.76,905.746 936.26,759.388 1241.52,756.654 1003.02,1169.75" />
+    <polygon id="HazardL" fill="#000000" fill-opacity="0" fill-rule="evenodd" points="564.24,760.254 648.74,906.612 498.475,1172.35 259.975,759.252" />
+    <path id="Inner6" d="M 673.336 635.186L 724.023 722.993L 713.623 741.007L 612.236 741.014C 612.29 740.121 612.394 739.142 612.447 738.249L 670.996 636.838C 671.792 636.259 672.54 635.765 673.336 635.186 z" fill="#000000" fill-opacity="0" fill-rule="evenodd" />
+    <path id="Inner5" d="M 612.236 758.986L 713.623 758.993L 724.023 777.007L 673.336 864.814C 672.59 864.321 671.793 863.742 671.047 863.249L 612.497 761.838C 612.393 760.859 612.34 759.965 612.236 758.986 z" fill="#000000" fill-opacity="0" fill-rule="evenodd" />
+    <path id="Inner4" d="M 688.9 873.8L 739.6 786L 760.4 786L 811.1 873.8C 810.3 874.2 809.4 874.6 808.6 875L 691.5 875C 690.6 874.6 689.8 874.2 688.9 873.8 z" fill="#000000" fill-opacity="0" fill-rule="evenodd" />
+    <path id="Inner3" d="M 826.664 864.814L 775.977 777.007L 786.377 758.993L 887.764 758.986C 887.71 759.879 887.607 760.858 887.553 761.751L 829.004 863.162C 828.208 863.742 827.46 864.235 826.664 864.814 z" fill="#000000" fill-opacity="0" fill-rule="evenodd" />
+    <path id="Inner2" d="M 887.764 741.014L 786.377 741.007L 775.977 722.993L 826.664 635.186C 827.41 635.679 828.207 636.258 828.953 636.751L 887.503 738.162C 887.607 739.141 887.66 740.034 887.764 741.014 z" fill="#000000" fill-opacity="0" fill-rule="evenodd" />
+    <path id="Inner1" d="M 811.1 626.2L 760.4 714L 739.6 714L 688.9 626.2C 689.7 625.8 690.6 625.4 691.4 625L 808.5 625C 809.4 625.4 810.2 625.8 811.1 626.2 z" fill="#000000" fill-opacity="0" fill-rule="evenodd" />
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:realworld="http://www.rw-designer.com/export-svg" width="1500px" height="1500px">
+  <g inkscape:groupmode="layer" inkscape:label="unnamed">
+    <polygon fill="#000000" fill-rule="evenodd" points="1087,1338 413,1338 75,750 413,162 1087,162 1425,750" />
+    <path d="M 1378.86 750L 1063.86 1298L 436.145 1298L 121.137 750L 436.145 202L 1063.86 202C 1063.86 202 1378.86 750 1378.86 750 z" fill="#fe8b11" fill-rule="evenodd" />
+    <path d="M 543 435L 630 435L 630 465L 873 465C 873 465 888 435 948 405L 1083 405L 1083 585L 948 585C 888 555 873 525 873 525L 630 525L 630 555L 543 555C 543 555 417 552 417 495C 417 438 543 435 543 435 z" fill="#000000" fill-rule="evenodd" />
+    <path d="M 543 690L 630 690L 630 720L 873 720C 873 720 888 690 948 660L 1083 660L 1083 840L 948 840C 888 810 873 780 873 780L 630 780L 630 810L 543 810C 543 810 417 807 417 750C 417 693 543 690 543 690 z" fill="#000000" fill-rule="evenodd" />
+    <path d="M 543 945L 630 945L 630 975L 873 975C 873 975 888 945 948 915L 1083 915L 1083 1095L 948 1095C 888 1065 873 1035 873 1035L 630 1035L 630 1065L 543 1065C 543 1065 417 1062 417 1005C 417 948 543 945 543 945 z" fill="#000000" fill-rule="evenodd" />
+  </g>
+</svg>

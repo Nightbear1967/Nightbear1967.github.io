@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:realworld="http://www.rw-designer.com/export-svg" width="940px" height="188px">
+  <g inkscape:groupmode="layer" inkscape:label="layer 0">
+    <path id="Outline-1" d="M 936 94C 936 141.496 897.496 180 850 180L 90 180C 42.5036 180 4 141.496 4 94C 4 46.5036 42.5036 8 90 8L 850 7.99996C 897.496 7.99996 936 46.5036 936 94 z M 845 26C 882.555 26 913 56.4446 913 94C 913 131.555 882.555 162 845 162L 93 162C 55.4446 162 25 131.555 25 94C 25 56.4446 55.4446 26 93 26C 93 26 845 26 845 26 z" fill="#ffffff" fill-rule="evenodd" />
+    <path id="CapL" d="M 96.7266 135.922C 74.5882 134.741 57 116.433 57 94C 57 70.804 75.804 52 99 52L 174.984 52C 174.984 52 96.7266 135.922 96.7266 135.922 z" fill="#ffffff" fill-rule="evenodd" />
+    <path id="CapR" d="M 843.274 135.922C 865.412 134.741 883 116.433 883 94C 883 70.804 864.196 52 841 52L 765.016 52C 765.016 52 843.274 135.922 843.274 135.922 z" fill="#ffffff" fill-rule="evenodd" />
+    <polygon id="M1" fill="#ffffff" fill-rule="evenodd" points="320,136 288,136 288,78.9902 234.838,136 200,136 200,78.9902 146.838,136 114.022,136 192.352,52 232,52 232,103.852 280.352,52 320,52" />
+    <polygon id="M2" fill="#ffffff" fill-rule="evenodd" points="620,136 652,136 652,78.9902 705.162,136 740,136 740,78.9902 793.162,136 825.978,136 747.648,52 708,52 708,103.852 659.648,52 620,52" />
+    <polygon fill="#ffffff" fill-rule="evenodd" points="361.5,136 329.5,136 329.5,52 361.5,52" />
+    <polygon fill="#ffffff" fill-rule="evenodd" points="444.97,92 488.97,136 455.03,136 428,108.971 400.97,136 367.03,136 411.03,92 371.03,52 404.97,52 428,75.0292 451.03,52 484.97,52" />
+    <path d="M 613 94C 613 117.196 595.242 136 551 136C 506.758 136 489 117.196 489 94C 489 70.804 514.758 52 551 52C 595.242 52 613 70.804 613 94 z M 551 68C 571.569 68 581 79.6406 581 94C 581 108.359 571.569 120 551 120C 530.431 120 521 108.359 521 94C 521 79.6406 530.431 68 551 68 z" fill="#ffffff" fill-rule="evenodd" />
+  </g>
+</svg>

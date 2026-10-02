@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:realworld="http://www.rw-designer.com/export-svg" width="750px" height="300px">
+  <g inkscape:groupmode="layer" inkscape:label="layer 0">
+    <polygon id="Outline" fill="#000000" fill-rule="evenodd" points="538,31 510,100 541,100 580,7 687.5,7 712.5,32.5 644,198.5 644,206 739.919,294 496.5,294 471.5,271 495,212.5 464,212.5 430,294.092 322.5,294 300,272.5 300,265 360,116 330,116 255,294 149,294 123.063,267.5 185,117.5 139.317,116.533 15,7 512.5,7" />
+    <polygon id="Inside" fill="#ffffff" fill-rule="evenodd" points="497,17 460,110 547.5,110 586.5,17 672,17 604,184.017 689,261 486,261 520,179 432,179 397.379,261 312.5,261 383,86 295.5,86 222.5,261 136.5,261 209,86 120,86 41.25,17" />
+    <polygon id="Core" fill="#000000" fill-rule="evenodd" points="445,120 554,120 593,27 657,27 592,187 663,251 501,251 535,169 425,169 391,251 327.5,251 398,76 289,76 216,251 151.5,251 224,76 123.5,76 68,27 482,27" />
+  </g>
+</svg>

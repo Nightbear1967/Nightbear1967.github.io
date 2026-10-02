@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:realworld="http://www.rw-designer.com/export-svg" width="1500px" height="1500px">
+  <g inkscape:groupmode="layer" inkscape:label="unnamed">
+    <path d="M 750 720L 1106 854L 956 1309L 750 1481L 544 1309L 394 854C 394 854 750 720 750 720 z" fill="#000000" fill-rule="evenodd" />
+    <path id="BackL" d="M 436.997 874.003L 732 764.125L 732.001 1107.01L 560.997 1250C 560.997 1250 436.997 874.003 436.997 874.003 z" fill="#ffffff" fill-rule="evenodd" />
+    <path id="BackR" d="M 1063 874.003L 768 764.125L 767.999 1107.01L 939.003 1250C 939.003 1250 1063 874.003 1063 874.003 z" fill="#ffffff" fill-rule="evenodd" />
+    <polygon fill="#000000" fill-rule="evenodd" points="477.999,1315 427.998,1165 232.997,1337" />
+    <polygon fill="#000000" fill-rule="evenodd" points="371.998,981.001 321.998,831.002 110.997,987.003" />
+    <polygon fill="#000000" fill-rule="evenodd" points="378,709 461,548 167,687" />
+    <polygon fill="#000000" fill-rule="evenodd" points="1022,1315 1072,1165 1267,1337" />
+    <polygon fill="#000000" fill-rule="evenodd" points="1128,981.001 1178,831.002 1389,987.003" />
+    <polygon fill="#000000" fill-rule="evenodd" points="1122,709 1039,548 1333,687.003" />
+    <path d="M 383 815L 750 681L 1117 815L 872 337L 750 443L 628 337C 628 337 383 815 383 815 z" fill="#000000" fill-rule="evenodd" />
+    <polygon id="Head" fill="#ffffff" fill-rule="evenodd" points="861,392 750,488 639,392 454,752 750,645 1046,752" />
+    <polygon id="HornL" fill="#000000" fill-rule="evenodd" points="583,365 494,287 578,15 350,348 539,443" />
+    <polygon id="HornR" fill="#000000" fill-rule="evenodd" points="917,365 1006,287 922,15 1150,348 961,443" />
+  </g>
+</svg>

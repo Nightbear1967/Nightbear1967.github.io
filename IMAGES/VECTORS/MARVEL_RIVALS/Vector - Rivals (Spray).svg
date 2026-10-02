@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:realworld="http://www.rw-designer.com/export-svg" width="1000px" height="556px">
+  <g inkscape:groupmode="layer" inkscape:label="layer 0">
+    <path d="M 90.4762 20.6514L 469.841 20.6514L 742.857 341.543L 446.032 328.834L 847.619 535.349L 474.603 516.286L 222.222 262.114L 544.444 274.823C 544.444 274.823 90.4762 20.6514 90.4762 20.6514 z" fill="#ffff00" fill-rule="evenodd" />
+    <path d="M 142.857 115.966L 353.968 236.697L 215.873 189.04L 147.619 400.32L 304.762 387.611L 36.5079 489.28C 36.5079 489.28 142.857 115.966 142.857 115.966 z" fill="#ffff00" fill-rule="evenodd" />
+    <path d="M 853.968 474.983L 650.794 387.611L 779.365 403.497L 847.619 208.103L 695.238 239.874L 990.476 108.023C 990.476 108.023 853.968 474.983 853.968 474.983 z" fill="#ffff00" fill-rule="evenodd" />
+  </g>
+</svg>

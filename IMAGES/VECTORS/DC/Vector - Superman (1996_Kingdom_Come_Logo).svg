@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:realworld="http://www.rw-designer.com/export-svg" width="1334px" height="1000px">
+  <g inkscape:groupmode="layer" inkscape:label="layer 0">
+    <path d="M 1105 0L 1332 225L 666 1000L 0 225L 227 0C 227 0 1105 0 1105 0 z" fill="#da000a" fill-rule="evenodd" />
+    <path d="M 871 685L 678 909C 670.225 918.029 661.95 918.243 654 909C 654 909 402.467 617.02 233 420C 234.996 419.444 245.177 418.325 254 421L 806 590C 878 620 875.133 679.975 871 685 z" fill="#000000" fill-rule="evenodd" />
+    <path d="M 1221 256C 1227.32 262.285 1231 266 1231 266C 1231 266 1227.52 270.422 1221 278C 1200.18 302.204 1086 435 1086 435C 1076 447 1060 439 1060 424C 1060 401.439 1055 388 1038 373C 1022.25 359.099 1014.56 353.779 989 346L 404 167C 394 164 384.599 149.903 386 145C 390 131 398.362 116.433 408 108C 416 101 417 100 434 100L 1064 100C 1064 100 1184.93 220.149 1221 256 z" fill="#000000" fill-rule="evenodd" />
+  </g>
+</svg>

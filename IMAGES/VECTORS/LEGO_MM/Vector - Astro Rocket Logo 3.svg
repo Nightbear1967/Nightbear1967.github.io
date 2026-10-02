@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:realworld="http://www.rw-designer.com/export-svg" width="1500px" height="1500px">
+  <g inkscape:groupmode="layer" inkscape:label="Logo">
+    <path id="CircleR" d="M 180 775C 180 947.157 256.285 1101.53 376.94 1206.04L 408.46 1097.88C 328.828 1013.68 280 900.042 280 775C 280 555.032 431.132 370.445 635.208 319.21L 666.672 211.157C 391.377 251.49 180 488.509 180 775 z" fill="#fe8b0f" fill-rule="evenodd" />
+    <path id="Ship" d="M 818 1317L 682 1317L 682 1385L 501 1385L 501 1317L 387 1317L 750 70L 1113 1317L 999 1317L 999 1385L 818 1385C 818 1385 818 1317 818 1317 z" fill="#fe8b10" fill-rule="evenodd" />
+    <path id="CircleL" d="M 1320 775C 1320 947.157 1243.72 1101.53 1123.06 1206.04L 1091.54 1097.88C 1171.17 1013.68 1220 900.042 1220 775C 1220 555.032 1068.87 370.445 864.792 319.21L 833.328 211.157C 1108.62 251.49 1320 488.509 1320 775 z" fill="#fe8b0f" fill-rule="evenodd" />
+  </g>
+</svg>

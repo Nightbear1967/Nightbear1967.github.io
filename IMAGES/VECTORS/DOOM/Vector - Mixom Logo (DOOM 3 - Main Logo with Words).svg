@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:realworld="http://www.rw-designer.com/export-svg" width="800px" height="500px">
+  <g inkscape:groupmode="layer" inkscape:label="layer 0">
+    <path id="Outline" d="M 400 494L 40 134L 760 134C 760 134 400 494 400 494 z M 687.577 164L 400 451.577L 112.422 164C 112.422 164 687.577 164 687.577 164 z" fill="#ffffff" fill-rule="evenodd" />
+    <polygon id="Triangle" fill="#ffffff" fill-rule="evenodd" points="421,236 421,194 615.157,194 400,409.157 184.844,194 379,194 379,236" />
+    <path id="M1" d="M 16 1.99992L 70 1.99992L 112 66.0001L 154 1.99992L 208 1.99992L 208 97.9999L 172 97.9999L 172 34L 130 97.9999L 94 97.9999L 52 34L 52 97.9999L 16 97.9999C 16 97.9999 16 1.99992 16 1.99992 z" fill="#ffffff" fill-rule="evenodd" />
+    <rect id="I1" fill="#ffffff" height="96" width="36" x="220" y="1.9999" />
+    <path id="M2" d="M 784 1.99992L 730 1.99992L 688 66.0001L 646 1.99992L 592 1.99992L 592 97.9999L 628 97.9999L 628 34L 670 97.9999L 706 97.9999L 748 34L 748 97.9999L 784 97.9999C 784 97.9999 784 1.99992 784 1.99992 z" fill="#ffffff" fill-rule="evenodd" />
+    <polygon id="X1" fill="#ffffff" fill-rule="evenodd" points="346,32.3154 382,2 424,2 367,50 424,98 382,98 346,67.6846 310,98 268,98 325,50 268,2 310,2" />
+    <path id="O1" d="M 580 50C 580 76.5097 543.735 98 499 98C 454.265 98 418 76.5097 418 50C 418 23.4903 454.265 2 499 2C 543.735 2 580 23.4903 580 50 z M 499 26C 523.853 26 544 36.7452 544 50C 544 63.2548 523.853 74 499 74C 474.147 74 454 63.2548 454 50C 454 36.7452 474.147 26 499 26 z" fill="#ffffff" fill-rule="evenodd" />
+  </g>
+</svg>

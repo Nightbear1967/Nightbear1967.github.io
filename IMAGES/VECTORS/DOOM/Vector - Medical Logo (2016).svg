@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:realworld="http://www.rw-designer.com/export-svg" width="1250px" height="1050px">
+  <g inkscape:groupmode="layer" inkscape:label="layer 0">
+    <path d="M 705 145C 695 135 615 125 565 175C 535 205 545 225 545 225L 515 265L 505 265C 492.831 265 485 245 485 225L 485 175L 325 175L 175 25C 175 25 185 15 205 15L 385 15L 445 65L 805 65L 865 15L 1045 15C 1065 15 1075 25 1075 25L 925 175L 765 175L 765 225C 765 245 757.169 265 745 265L 691 265C 722.587 216.027 713.761 153.761 705 145 z" fill="#79aebe" fill-rule="evenodd" />
+    <path d="M 15 165L 145 35L 190 80L 60 210C 60 210 15 165 15 165 z" fill="#79aebe" fill-rule="evenodd" />
+    <path d="M 80 230L 210 100L 255 145L 125 275C 125 275 80 230 80 230 z" fill="#79aebe" fill-rule="evenodd" />
+    <path d="M 305 295L 285 275L 355 205L 455 205L 365 295C 365 295 305 295 305 295 z" fill="#79aebe" fill-rule="evenodd" />
+    <path d="M 145 295L 275 165L 315 205L 225 295C 225 295 145 295 145 295 z" fill="#79aebe" fill-rule="evenodd" />
+    <path d="M 1235 165L 1105 35L 1060 80L 1190 210C 1190 210 1235 165 1235 165 z" fill="#79aebe" fill-rule="evenodd" />
+    <path d="M 1170 230L 1040 100L 995 145L 1125 275C 1125 275 1170 230 1170 230 z" fill="#79aebe" fill-rule="evenodd" />
+    <path d="M 945 295L 965 275L 895 205L 795 205L 885 295C 885 295 945 295 945 295 z" fill="#79aebe" fill-rule="evenodd" />
+    <path d="M 1105 295L 975 165L 935 205L 1025 295C 1025 295 1105 295 1105 295 z" fill="#79aebe" fill-rule="evenodd" />
+    <path d="M 630 305C 625 305 625 305 595 335L 595 375C 635 337 635 340 635 330L 635 305C 635 305 630 305 630 305 z" fill="#79aebe" fill-rule="evenodd" />
+    <path d="M 610 528L 610 571C 640 540 640 542 640 535L 640 490C 610 520 610 518 610 528 z" fill="#79aebe" fill-rule="evenodd" />
+    <path d="M 525 485C 525 475 535 465 535 465L 655 345L 655 295L 685 275C 705 275 725 295 725 315L 725 375L 595 505L 595 585L 565 615L 535 585C 535 585 525 575 525 565C 525 565 525 485 525 485 z" fill="#79aebe" fill-rule="evenodd" />
+    <path d="M 615 732L 615 775C 635 755 635 757 635 747L 635 704C 615 724 615 722 615 732 z" fill="#79aebe" fill-rule="evenodd" />
+    <path d="M 655 900L 655 940C 675 930 685 917 685 907L 685 863C 655 893 655 890 655 900 z" fill="#79aebe" fill-rule="evenodd" />
+    <path d="M 535 685C 535 675 545 665 545 665L 655 555L 655 475L 705 425C 725 425 725 445 725 465L 725 585L 605 705L 605 785L 555 835L 545 825C 545 825 535 816.021 535 805C 535 805 535 685 535 685 z" fill="#79aebe" fill-rule="evenodd" />
+    <path d="M 565 875C 565 865 585 835 585 835L 645 775L 645 695L 695 645C 715 645 715 665 715 685L 715 795L 635 875C 635 875 615 885 615 895C 615 905 635 915 635 925L 635 995C 635 1015 625 1035 625 1035C 625 1035 615 1015 615 995L 615 975C 615 955 565 935 565 915C 565 915 565 875 565 875 z" fill="#79aebe" fill-rule="evenodd" />
+    <path d="M 525 295C 525 295 515 305 515 315L 515 385C 515 405 535 425 545 425L 575 395L 575 305L 595 285C 595 285 635 285 645 275C 685 235 695 175 685 165C 675 155 615 165 575 205C 565 215 565 255 565 255C 565 255 525 295 525 295 z" fill="#79aebe" fill-rule="evenodd" />
+  </g>
+</svg>
