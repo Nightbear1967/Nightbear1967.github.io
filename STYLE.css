@@ -9,11 +9,16 @@ body {
 	font: ARCADER;
 	
 }
+
+selector {
+  font-family: "Times New Roman", Georgia, serif;
+}
+
 @font-face {
   font-family: ARCADER;
-  src: url(FONTS/Arcader.ttf);
+  src: url(FONTS/ARCADER/Arcader.ttf);
   font-family: AZTOLMEC;
-  src: url(FONTS/AZTOLMEC_V1.ttf)
+  src: url(FONTS/AZTOLMEC/AZTOLMEC_V1.ttf)
 }
 
 p {
